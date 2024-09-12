@@ -1,6 +1,7 @@
 # post-install-config
 Admin/Analyst Login Page:
 http://localhost/osTicket/scp/login.php 
+login with adminuser and password1 that was set before
 <img width="1225" alt="Screenshot 2024-09-11 at 3 42 52 PM" src="https://github.com/user-attachments/assets/769bdf36-a0c7-48f9-8530-1fce70bdefe8">
 
 
